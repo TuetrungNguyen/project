@@ -1,0 +1,97 @@
+/* General Body */
+
+body {
+  text-align: center;
+}
+
+
+p {
+  font-size:23px;
+}
+
+.imaget{
+  padding-bottom: 30px;
+}
+
+
+
+/* Navbar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0080FF;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a {
+  size: 200px;
+}
+
+
+/* Title */
+
+.title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 60px;
+}
+
+
+
+
+/*Container  */
+
+
+.top-padding{
+  padding-top: 100px;
+}
+
+
+.container img {
+  border-radius: 50%;
+  border-width: 5px;
+  border-style: groove;
+  border-color: #0080FF;
+}
+
+.container a {
+  font-size: 60px;
+  
+}
+
+.containerstuff {
+  padding-left:100000px;
+}
+
+.container {
+  padding-bottom: 30px;
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+  background-color: #111;
+}
+
+
+* {
+  box-sizing: border-box
+}

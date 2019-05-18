@@ -1,0 +1,91 @@
+body{
+    background-color: #B4C5E4;
+}
+
+h1{
+    font-size: 65px;
+    color: #2C2A4A;
+}
+
+h2{
+    font-size: 45px;
+}
+
+h3{
+    padding-top: 100px;
+    font-size: 35px;
+}
+
+h4{
+    font-size: 28px;
+}
+
+.nav-pills{
+    background-color: #2C2A4A;
+    font-size: 32px;
+    color:  white;
+}
+
+.card{
+    border-radius: 25%;
+    background-color: #2C2A4A;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.resumeName{
+    font-size: 100px;
+    font-family: impact;
+}
+
+.project_name{
+    padding: 50px;
+}
+
+.main_title{
+    padding: 50px;
+}
+
+.resumeCategories h2{
+    text-decoration: underline;
+}
+
+.round_image{
+    border-radius:50%;
+}
+
+.text{
+    padding-right:20rem;
+}
+
+.resume{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.slideshow{
+    float: right;
+    width: 400px;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+.commingsoon{
+    float: right;
+}
+
+.yes{
+    margin-left: 350px;
+}
+
+.appinventor{
+    border-color: #2c2a4a;
+}
